@@ -9,6 +9,6 @@ Aşırı öğrenmenin aksine, bir model yetersiz öğrenmeye sahipse, modelin e�
 Underfitting sorunu olan modellerde hem eğitim hem de test veri setinde hata oranı yüksektir. Düşük varyans ve yüksek bias’a sahiptir. Bu modeller eğitim verilerini çok yakından takip etmek yerine, eğitim verilerinden alınan dersleri yok sayar ve girdiler ile çıktılar arasındaki temel ilişkiyi öğrenemez.
 Underfit’in overfit kadar yaygın olmadığını belirtmek gerekir. Yine de, veri analizinde her iki problemden de kaçınmak gereklidir.
 
-Veri biliminde objektif bir veri seti ve model oluşturmak verinin bütünlüğü ve birliği için önemlidir zira bir veri setinde veyahut ta bir modelde Bias yanlılığı fazla çıkarsa veri setini oluşturan insanların görüşleri ve fikirleri bu veri setinde etkin bir oynamış olup bu şekilde diğer veri setindeki verilerin değerlerini azaltmaktadır.
+Veri biliminde objektif bir veri seti ve model oluşturmak verinin bütünlüğü ve birliği için önemlidir zira bir veri setinde veyahut ta bir modelde Bias yanlılığı fazla çıkarsa veri setini oluşturan insanların görüşleri ve fikirleri bu veri setinde etkin bir rol oynamış olup bu şekilde diğer veri setindeki verileri göz ardı edilmesi söz konusudur.
 
 
